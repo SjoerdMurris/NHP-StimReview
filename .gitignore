@@ -1,0 +1,21 @@
+# NMT brain atlas (too large for GitHub; download separately)
+data/NMT_v2.0_sym/
+data/NMT_v2.0_sym.zip
+
+# Generated NIfTI outputs (re-created by running the scripts)
+data/*.nii.gz
+*.nii.gz
+
+# LibreOffice lock files
+.~lock.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db

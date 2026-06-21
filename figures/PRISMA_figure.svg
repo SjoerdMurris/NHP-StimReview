@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="PRISMA_figure.svg"
+   inkscape:export-filename="/home/sjoerdmurris/data/Misc/StimReview/PRISMA_overview_170625.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2810466"
+     inkscape:cx="329.41815"
+     inkscape:cy="484.36958"
+     inkscape:window-width="1846"
+     inkscape:window-height="1136"
+     inkscape:window-x="74"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="-115.07979"
+       y="417.46953"
+       width="202.62709"
+       height="104.62328"
+       id="rect502187" />
+    <rect
+       x="345.87371"
+       y="686.38682"
+       width="24.426616"
+       height="17.733639"
+       id="rect297009" />
+    <marker
+       style="overflow:visible"
+       id="TriangleInL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path142484" />
+    </marker>
+    <rect
+       x="112.55786"
+       y="101.69121"
+       width="218.06435"
+       height="125.45884"
+       id="rect31837" />
+    <rect
+       x="110.42364"
+       y="102.53089"
+       width="208.88732"
+       height="38.607719"
+       id="rect20655" />
+    <rect
+       x="388.02001"
+       y="75.885904"
+       width="344.31774"
+       height="211.82859"
+       id="rect175226" />
+    <rect
+       x="115.28583"
+       y="400.37535"
+       width="153.73113"
+       height="138.76449"
+       id="rect128812" />
+    <rect
+       x="102.20351"
+       y="404.88797"
+       width="402.33195"
+       height="109.93695"
+       id="rect119324" />
+    <rect
+       x="131.0987"
+       y="404.52206"
+       width="480.62656"
+       height="130.04089"
+       id="rect105950" />
+    <rect
+       x="164.69993"
+       y="423.30553"
+       width="410.44588"
+       height="83.739189"
+       id="rect100532" />
+    <rect
+       x="116.35403"
+       y="399.83663"
+       width="530.86189"
+       height="137.58606"
+       id="rect69033" />
+    <rect
+       x="51.94179"
+       y="417.47081"
+       width="450.77776"
+       height="68.460031"
+       id="rect12406" />
+    <rect
+       x="73.044018"
+       y="398.42778"
+       width="369.53388"
+       height="79.121681"
+       id="rect3520" />
+    <rect
+       x="384.92911"
+       y="30.667137"
+       width="370.47869"
+       height="149.8318"
+       id="rect31159" />
+    <linearGradient
+       id="linearGradient4462"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4458" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4460" />
+    </linearGradient>
+    <rect
+       x="384.92911"
+       y="30.667137"
+       width="370.4787"
+       height="149.8318"
+       id="rect31159-9" />
+    <rect
+       x="384.92911"
+       y="30.667137"
+       width="370.4787"
+       height="149.8318"
+       id="rect31159-9-4" />
+    <rect
+       x="115.28583"
+       y="400.37534"
+       width="142.12219"
+       height="92.868303"
+       id="rect128812-3" />
+    <rect
+       x="115.28583"
+       y="400.37534"
+       width="141.68438"
+       height="137.8461"
+       id="rect128812-8" />
+    <rect
+       x="115.28583"
+       y="400.37534"
+       width="110.34581"
+       height="128.48205"
+       id="rect128812-8-4" />
+    <rect
+       x="112.55786"
+       y="101.69121"
+       width="218.06435"
+       height="125.45884"
+       id="rect31837-9" />
+    <rect
+       x="112.55786"
+       y="101.69121"
+       width="275.40462"
+       height="122.13728"
+       id="rect31837-8" />
+    <marker
+       style="overflow:visible"
+       id="TriangleInL-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path142484-0" />
+    </marker>
+    <rect
+       x="112.55786"
+       y="101.69121"
+       width="275.40463"
+       height="122.13728"
+       id="rect31837-8-4" />
+    <rect
+       x="112.55786"
+       y="101.69121"
+       width="275.40463"
+       height="122.13728"
+       id="rect31837-8-7" />
+    <rect
+       x="112.55786"
+       y="101.69121"
+       width="328.2765"
+       height="356.6787"
+       id="rect31837-8-3" />
+    <rect
+       x="112.55786"
+       y="101.69121"
+       width="218.06435"
+       height="125.45884"
+       id="rect31837-9-9" />
+    <marker
+       style="overflow:visible"
+       id="TriangleInL-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path142484-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInL-6-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path142484-2-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInL-6-7-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path142484-2-4-5" />
+    </marker>
+    <rect
+       x="112.55786"
+       y="101.69121"
+       width="328.27649"
+       height="356.67871"
+       id="rect31837-8-3-7" />
+    <rect
+       x="112.55786"
+       y="101.69121"
+       width="218.06435"
+       height="125.45884"
+       id="rect31837-9-9-8" />
+    <rect
+       x="112.55786"
+       y="101.69121"
+       width="218.06435"
+       height="125.45884"
+       id="rect31837-9-9-1" />
+    <rect
+       x="112.55786"
+       y="101.69121"
+       width="218.06435"
+       height="125.45884"
+       id="rect31837-9-9-9" />
+    <rect
+       x="112.55786"
+       y="101.69121"
+       width="218.02513"
+       height="125.47272"
+       id="rect31837-9-9-9-3" />
+    <rect
+       x="112.55786"
+       y="101.69121"
+       width="218.06435"
+       height="125.45884"
+       id="rect31837-9-9-9-8" />
+    <rect
+       x="112.55786"
+       y="101.69121"
+       width="218.02513"
+       height="125.47272"
+       id="rect31837-9-9-9-3-6" />
+    <marker
+       style="overflow:visible"
+       id="TriangleInL-6-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path142484-2-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInL-6-76"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path142484-2-43" />
+    </marker>
+    <rect
+       x="-115.07979"
+       y="417.46954"
+       width="202.62709"
+       height="104.62328"
+       id="rect502187-4" />
+    <rect
+       x="-115.07979"
+       y="417.46954"
+       width="87.150029"
+       height="98.657265"
+       id="rect502187-5" />
+    <rect
+       x="-115.07979"
+       y="417.46954"
+       width="87.150032"
+       height="98.657265"
+       id="rect502187-5-4" />
+    <rect
+       x="-115.07979"
+       y="417.46954"
+       width="87.150032"
+       height="98.657265"
+       id="rect502187-5-4-9" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3518"
+       style="fill:#00ffff;stroke-width:0.00236304;stroke-linecap:square;font-size:26.66666667px;-inkscape-font-specification:'Trebuchet MS Bold';font-family:'Trebuchet MS';text-align:center;line-height:0;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke:#b2b2b2;font-weight:bold;white-space:pre;shape-inside:url(#rect3520)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text12404"
+       style="fill:#00ffff;stroke-width:0.00236304;stroke-linecap:square;font-size:26.66666667px;-inkscape-font-specification:'Trebuchet MS Bold';font-family:'Trebuchet MS';text-align:center;line-height:0;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke:#b2b2b2;font-weight:bold;white-space:pre;shape-inside:url(#rect12406)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text100530"
+       style="fill:#000000;stroke-width:0.00236304;stroke-linecap:square;font-size:26.66670036px;-inkscape-font-specification:'Droid Sans Fallback, Normal';font-family:'Droid Sans Fallback';text-align:start;line-height:0;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke:#b2b2b2;font-weight:normal;fill-opacity:1;opacity:1;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect100532);letter-spacing:0px" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text119322"
+       style="fill:#000000;stroke-width:0.00236304;stroke-linecap:square;font-size:26.66670036px;-inkscape-font-specification:'Droid Sans Fallback, Normal';font-family:'Droid Sans Fallback';text-align:start;line-height:0;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke:#b2b2b2;font-weight:normal;fill-opacity:1;opacity:1;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect119324)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text175224"
+       style="fill:#000000;stroke-width:0.00236304;stroke-linecap:square;font-size:16px;-inkscape-font-specification:'Droid Sans Fallback, Normal';font-family:'Droid Sans Fallback';text-align:center;line-height:0;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke:#b2b2b2;font-weight:normal;fill-opacity:1;opacity:1;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect175226)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0.239216;stroke:#000000;stroke-width:0.405;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect18371"
+       width="61.447105"
+       height="27.2736"
+       x="32.647034"
+       y="23.41884"
+       ry="0.12603834" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0.239216;stroke:#000000;stroke-width:0.423663;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect18371-5"
+       width="61.447105"
+       height="27.2736"
+       x="32.647038"
+       y="60.197365"
+       ry="0.12603834" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text20653"
+       style="font-size:16px;line-height:1;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback, Normal';text-align:center;white-space:pre;shape-inside:url(#rect20655);fill:#ffffff;fill-opacity:0.239216;stroke:#000000;stroke-width:1.89354;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,4.5336119,6.6828191)"
+       id="text31835"
+       style="font-size:13.3333px;line-height:1.2;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback, Normal';text-align:center;white-space:pre;shape-inside:url(#rect31837);fill:#ffffff;fill-opacity:0.239216;stroke:#000000;stroke-width:1.89354;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="113.11128"
+         y="113.19332"
+         id="tspan40935"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan40933">Records identified from PubMed:
+</tspan></tspan><tspan
+         x="185.37346"
+         y="129.23168"
+         id="tspan40939"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan40937">(n = 2687)</tspan></tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.239216;stroke:#000000;stroke-width:0.405;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect18371-1"
+       width="82.127998"
+       height="27.208057"
+       x="103.32813"
+       y="23.451612"
+       ry="0.12573545" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0.239216;stroke:#000000;stroke-width:0.405;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect18371-1-4"
+       width="82.314743"
+       height="84.535927"
+       x="103.51517"
+       y="60.327648"
+       ry="0.39066231" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,76.317159,-0.11683461)"
+       id="text31835-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.2;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect31837-8);fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.89354;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"
+       x="-108.7067"
+       y="0"><tspan
+         x="112.55859"
+         y="113.15492"
+         id="tspan40947"><tspan
+           style="text-align:start;stroke:none"
+           id="tspan40941">Records excluded </tspan><tspan
+           style="stroke:none"
+           id="tspan40943">before screening</tspan><tspan
+           style="text-align:start;stroke:none"
+           id="tspan40945">
+</tspan></tspan><tspan
+         x="112.55859"
+         y="129.15488"
+         id="tspan40951"><tspan
+           style="text-align:start;stroke:none"
+           id="tspan40949">- Not accessible, ineligible (n = 22) 
+</tspan></tspan><tspan
+         x="112.55859"
+         y="145.15484"
+         id="tspan40955"><tspan
+           style="text-align:start;stroke:none"
+           id="tspan40953">- Languages other than English (n = 64)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="161.1548"
+         id="tspan40959"><tspan
+           style="font-style:italic;-inkscape-font-specification:'sans-serif Italic';stroke:none"
+           id="tspan40957">* Russian, French, Japanese, etc. 
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,4.5336119,42.16071)"
+       id="text31835-8"
+       style="font-size:13.3333px;line-height:1.2;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback, Normal';text-align:center;white-space:pre;shape-inside:url(#rect31837-9);fill:#ffffff;fill-opacity:0.239216;stroke:#000000;stroke-width:1.89354;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="163.40412"
+         y="113.19332"
+         id="tspan40963"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan40961">Reports screened
+</tspan></tspan><tspan
+         x="185.37346"
+         y="129.23168"
+         id="tspan40967"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan40965">(n = 2601)</tspan></tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.500999;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 62.648358,50.476573 v 9.904364"
+       id="path142103" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.405202;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL)"
+       d="m 63.370586,57.678719 v -6.47878"
+       id="path142251" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0.239216;stroke:#000000;stroke-width:0.423663;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect18371-5-1"
+       width="61.447105"
+       height="27.2736"
+       x="33.321541"
+       y="96.492561"
+       ry="0.12603834" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,5.208118,78.545441)"
+       id="text31835-8-7"
+       style="font-size:13.3333px;line-height:1.2;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback, Normal';text-align:center;white-space:pre;shape-inside:url(#rect31837-9-9);fill:#ffffff;fill-opacity:0.239216;stroke:#000000;stroke-width:1.89354;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="119.84303"
+         y="113.19332"
+         id="tspan40971"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan40969">Reports assessed for eligibility
+</tspan></tspan><tspan
+         x="185.37346"
+         y="129.23168"
+         id="tspan40975"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan40973">(n = 1060)</tspan></tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.239216;stroke:#000000;stroke-width:0.405;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect18371-5-1-6"
+       width="61.382206"
+       height="36.307793"
+       x="34.021099"
+       y="160.40134"
+       ry="0.16778769" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,5.8752294,138.71772)"
+       id="text31835-8-7-4"
+       style="font-size:13.3333px;line-height:1.2;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback, Normal';text-align:center;white-space:pre;shape-inside:url(#rect31837-9-9-9);fill:#ffffff;fill-opacity:0.239216;stroke:#000000;stroke-width:1.89354;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="133.99339"
+         y="113.19332"
+         id="tspan40979"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan40977">Studies included in review
+</tspan></tspan><tspan
+         x="189.61499"
+         y="129.23168"
+         id="tspan40983"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan40981">(n = 732)
+</tspan></tspan><tspan
+         x="221.59082"
+         y="145.27004"
+         id="tspan40987"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan40985">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,5.494782,150.61828)"
+       id="text31835-8-7-4-3"
+       style="font-size:13.3333px;line-height:1.2;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback, Normal';text-align:center;white-space:pre;shape-inside:url(#rect31837-9-9-9-3);fill:#ffffff;fill-opacity:0.239216;stroke:#000000;stroke-width:1.89354;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"
+       x="-108.1403"
+       y="0"><tspan
+         x="112.55859"
+         y="113.19332"
+         id="tspan40991"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan40989">- Type of stimulation
+</tspan></tspan><tspan
+         x="112.55859"
+         y="129.23168"
+         id="tspan40995"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan40993">   - Electrical (n = 695)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="145.27004"
+         id="tspan40999"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan40997">   - Optogenetic (n = 34)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="161.3084"
+         id="tspan41003"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41001">   - Both (n = 4)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="177.34677"
+         id="tspan41007"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41005">
+</tspan></tspan><tspan
+         x="112.55859"
+         y="193.38513"
+         id="tspan41011"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41009">
+</tspan></tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.239216;stroke:#000000;stroke-width:0.366409;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect18371-5-1-6-0"
+       width="61.50436"
+       height="20.38114"
+       x="33.837227"
+       y="205.89375"
+       ry="0.094186515" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,5.7524358,184.27128)"
+       id="text31835-8-7-4-4"
+       style="font-size:13.3333px;line-height:1.2;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback, Normal';text-align:center;white-space:pre;shape-inside:url(#rect31837-9-9-9-8);fill:#ffffff;fill-opacity:0.239216;stroke:#000000;stroke-width:1.89354;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="115.38341"
+         y="113.19332"
+         id="tspan41015"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41013">Brain targets included in review
+</tspan></tspan><tspan
+         x="185.37346"
+         y="129.23168"
+         id="tspan41019"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41017">(n = 1016)
+</tspan></tspan><tspan
+         x="221.59082"
+         y="145.27004"
+         id="tspan41023"><tspan
+           style="font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41021">
+</tspan></tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.500999;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 63.322864,86.861304 v 9.904364"
+       id="path142103-8" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.405202;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-6)"
+       d="M 64.163948,94.06345 V 87.58467"
+       id="path142251-5" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.405202;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-6-76)"
+       d="m 64.163949,203.38582 v -6.47878"
+       id="path142251-5-0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.405202;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-6-8)"
+       d="M 101.19102,73.744634 H 94.712241"
+       id="path142251-5-9" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.405202;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-6-7)"
+       d="m 144.67254,156.79902 v -6.47878"
+       id="path142251-5-1" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.405;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-6-7-8)"
+       d="m 57.744922,157.68744 v -33.4587"
+       id="path142251-5-1-9" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.405202;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-3)"
+       d="M 101.19101,36.97752 H 94.712241"
+       id="path142251-4" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,75.919193,35.47314)"
+       id="text31835-0-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.2;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect31837-8-3);fill:#ffffff;fill-opacity:0.239216;stroke:#000000;stroke-width:1.89354;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"
+       x="-108.7067"
+       y="0"><tspan
+         x="112.55859"
+         y="113.15492"
+         id="tspan41027"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41025">Reports excluded (no transient stimulation):
+</tspan></tspan><tspan
+         x="112.55859"
+         y="129.15488"
+         id="tspan41031"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41029">(n = 1541)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="145.15484"
+         id="tspan41035"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41033">
+</tspan></tspan><tspan
+         x="112.55859"
+         y="161.1548"
+         id="tspan41039"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41037">- Alternative neuroscientific methods
+</tspan></tspan><tspan
+         x="112.55859"
+         y="177.15475"
+         id="tspan41043"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41041">   - Electrophysiological recordings (n = 349)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="193.15471"
+         id="tspan41047"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41045">   - Pharmacological perturbation (n = 116)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="209.15466"
+         id="tspan41051"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41049">   - Tractography (n = 77)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="225.15461"
+         id="tspan41055"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41053">   - Other (n = 261)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="241.15457"
+         id="tspan41059"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41057">
+</tspan></tspan><tspan
+         x="112.55859"
+         y="257.15452"
+         id="tspan41063"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41061">- Alternative stimulation targets
+</tspan></tspan><tspan
+         x="112.55859"
+         y="273.15449"
+         id="tspan41067"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41065">   - Nerve/spinal cord stimulation (n = 185)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="289.15446"
+         id="tspan41071"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41069">   - Peripheral stimulation (n = 91)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="305.15443"
+         id="tspan41075"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41073">   - Retina stimulation (n = 62)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="321.1544"
+         id="tspan41079"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41077">   - Other (n = 230)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="337.15437"
+         id="tspan41083"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41081">
+</tspan></tspan><tspan
+         x="112.55859"
+         y="353.15434"
+         id="tspan41087"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41085">- Non-experimental reports
+</tspan></tspan><tspan
+         x="112.55859"
+         y="369.15431"
+         id="tspan41091"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41089">   - Reviews (n = 74)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="385.15428"
+         id="tspan41095"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41093">   - Methodology / Modelling (n = 92)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="401.15425"
+         id="tspan41099"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41097">   - Other (n = 4) 
+</tspan></tspan><tspan
+         x="112.55859"
+         y="417.15422"
+         id="tspan41103"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41101">
+</tspan></tspan><tspan
+         x="112.55859"
+         y="433.15419"
+         id="tspan41107"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41105">
+</tspan></tspan><tspan
+         x="112.55859"
+         y="449.15416"
+         id="tspan41111"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41109">
+</tspan></tspan><tspan
+         x="112.55859"
+         y="465.15413"
+         id="tspan41115"><tspan
+           style="text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41113">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text297007"
+       style="fill:#000000;stroke-width:1.89354331;stroke-linecap:square;font-size:13.33333333px;-inkscape-font-specification:sans-serif;font-family:sans-serif;line-height:0;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke:#000000;text-align:start;fill-opacity:1;stroke-opacity:1;stroke-dasharray:none;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;white-space:pre;shape-inside:url(#rect297009)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0.239216;stroke:#000000;stroke-width:0.405;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect18371-1-4-5"
+       width="82.382797"
+       height="71.674332"
+       x="103.48114"
+       y="159.11685"
+       ry="0.33122554" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,75.919195,134.29665)"
+       id="text31835-0-1-3"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.2;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;white-space:pre;shape-inside:url(#rect31837-8-3-7);fill:#ffffff;fill-opacity:0.239216;stroke:#000000;stroke-width:1.89354;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"
+       x="-108.7067"
+       y="0"><tspan
+         x="112.55859"
+         y="113.15492"
+         id="tspan41119"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41117">Reports excluded (transient stimulation):
+</tspan></tspan><tspan
+         x="112.55859"
+         y="129.15488"
+         id="tspan41123"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41121">(n = 328)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="145.15484"
+         id="tspan41127"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41125">
+</tspan></tspan><tspan
+         x="112.55859"
+         y="161.1548"
+         id="tspan41131"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41129">- Altered state (temporary)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="177.15475"
+         id="tspan41135"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41133">   - Anaesthesia (n = 131)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="193.15471"
+         id="tspan41139"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41137">   - Asleep (n = 2)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="209.15466"
+         id="tspan41143"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41141">
+</tspan></tspan><tspan
+         x="112.55859"
+         y="225.15461"
+         id="tspan41147"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41145">- Altered state (permanent)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="241.15457"
+         id="tspan41151"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41149">   - Parkinsonian (n = 50)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="257.15452"
+         id="tspan41155"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41153">   - Epileptogenic (n = 30)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="273.15449"
+         id="tspan41159"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41157">   - Lesioned (n = 11)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="289.15446"
+         id="tspan41163"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41161">
+</tspan></tspan><tspan
+         x="112.55859"
+         y="305.15443"
+         id="tspan41167"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41165">- Other species (n = 44)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="321.1544"
+         id="tspan41173"><tspan
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41169">* Humans, rodents, cats, other monkeys</tspan><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41171">
+</tspan></tspan><tspan
+         x="112.55859"
+         y="337.15437"
+         id="tspan41177"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41175">
+</tspan></tspan><tspan
+         x="112.55859"
+         y="353.15434"
+         id="tspan41181"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41179">- Methodological focus (n = 47)
+</tspan></tspan><tspan
+         x="112.55859"
+         y="369.15431"
+         id="tspan41185"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41183">
+</tspan></tspan><tspan
+         x="112.55859"
+         y="385.15428"
+         id="tspan41189"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41187">
+</tspan></tspan><tspan
+         x="112.55859"
+         y="401.15425"
+         id="tspan41193"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41191">
+</tspan></tspan><tspan
+         x="112.55859"
+         y="417.15422"
+         id="tspan41197"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif;text-align:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan41195">
+</tspan></tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.405;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1"
+       d="m 72.046049,123.95661 0.153222,26.55282"
+       id="path440428" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.405;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1"
+       d="m 72.243247,150.48612 72.398033,-0.0749"
+       id="path440428-7" />
+    <rect
+       style="fill:#c8ffff;fill-opacity:1;stroke:#000000;stroke-width:0.393527;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect500820"
+       width="10.038013"
+       height="34.739975"
+       x="18.679508"
+       y="19.607533"
+       ry="3.3225298" />
+    <rect
+       style="fill:#c8ffff;fill-opacity:1;stroke:#000000;stroke-width:0.393527;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect500820-9"
+       width="10.038013"
+       height="34.739975"
+       x="18.679508"
+       y="56.666496"
+       ry="3.3225298" />
+    <rect
+       style="fill:#c8ffff;fill-opacity:1;stroke:#000000;stroke-width:0.393527;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect500820-9-2"
+       width="10.038013"
+       height="34.739975"
+       x="18.679508"
+       y="93.725464"
+       ry="3.3225298" />
+    <rect
+       style="fill:#c8ffff;fill-opacity:1;stroke:#000000;stroke-width:0.393527;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect500820-9-2-5"
+       width="10.038013"
+       height="34.739975"
+       x="18.679508"
+       y="161.33336"
+       ry="3.3225298" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.26458333,0.26458333,0,-86.357988,18.11766)"
+       id="text502185"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;white-space:pre;shape-inside:url(#rect502187);fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.15276;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="-115.08008"
+         y="420.93228"
+         id="tspan41201"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif"
+           id="tspan41199">Identification</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.26458333,0.26458333,0,-86.699913,52.33615)"
+       id="text502185-9"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;white-space:pre;shape-inside:url(#rect502187-5);fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.15276;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="-115.08008"
+         y="420.93228"
+         id="tspan41205"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif"
+           id="tspan41203">Screening</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.26458333,0.26458333,0,-86.699913,88.797395)"
+       id="text502185-9-6"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;white-space:pre;shape-inside:url(#rect502187-5-4);fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.15276;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="-115.08008"
+         y="420.93228"
+         id="tspan41209"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif"
+           id="tspan41207">Eligibility</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.26458333,0.26458333,0,-86.357988,155.80843)"
+       id="text502185-9-6-2"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;white-space:pre;shape-inside:url(#rect502187-5-4-9);fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.15276;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="-115.08008"
+         y="420.93228"
+         id="tspan41213"><tspan
+           style="font-style:normal;-inkscape-font-specification:sans-serif"
+           id="tspan41211">Included</tspan></tspan></text>
+  </g>
+</svg>
