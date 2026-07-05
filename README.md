@@ -1,6 +1,6 @@
 # StimReview
 
-Analysis and visualization code for a systematic review of brain stimulation studies in non-human primates (macaques).
+Analysis and visualization code for a systematic review of brain stimulation studies in non-human primates (macaques). 
 
 The review covers electrical microstimulation and optogenetic stimulation studies, mapping stimulation targets and outcomes onto the NMT v2.0 symmetric macaque brain atlas using the CHARM (cortical) and SARM (subcortical) parcellation schemes.
 
