@@ -4,10 +4,19 @@ Analysis and visualization code for a systematic review of brain stimulation stu
 
 The review covers electrical microstimulation and optogenetic stimulation studies, mapping stimulation targets and outcomes onto the NMT v2.0 symmetric macaque brain atlas using the CHARM (cortical) and SARM (subcortical) parcellation schemes.
 
+## Interactive tool
+
+An interactive, browser-based tool for exploring the review dataset is available via GitHub Pages — no installation required:
+
+**[Launch the StimReview Explorer →](https://sjoerdmurris.github.io/NHP-StimReview/stimreview_explorer/)**
+
+Explore stimulation targets, parameters, and outcomes across the included studies directly in your browser. Developed by Chris Klink.
+
 ## Repository structure
 
 ```
 StimReview/
+├── stimreview_explorer/                      # Interactive browser-based data explorer (served via GitHub Pages)
 ├── scripts/
 │   ├── Figure3_study_charac.py               # Fig 3 — study characteristics (species, journals, sex, year)
 │   ├── Figure4_atlas_generate.py             # Fig 4 — prerequisite: map stimulation targets to atlas ROIs, save NIfTI outputs
@@ -131,6 +140,4 @@ python scripts/FigureS3_frequency_macro_subcortical.py
 
 ## Citation
 
-If you use this code or data, please cite the associated review paper (citation to be added upon publication) and the NMT v2.0 atlas:
-
-> Seidlitz J, Sponheim C, Glen D, Ye FQ, Saleem KS, Leopold DA, Ungerleider L, Messinger A (2018). A population MRI brain template and analysis tools for the macaque. *NeuroImage*, 170, 121–131.
+If you use this code or data, please cite the associated review paper (citation to be added upon publication).
